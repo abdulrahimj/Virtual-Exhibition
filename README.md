@@ -10,7 +10,7 @@ The system features first-person camera navigation, Phong lighting,
 texture mapping, and multiple geometric primitives.
 
 ### GitHub Repository
-[Your GitHub link here]
+https://github.com/abdulrahimj/Virtual-Exhibition
 
 ### Directory Contents
 VirtualExhibition/
