@@ -532,6 +532,8 @@ static void drawRoom(GLuint prog) {
     drawMesh(g_quad);
 
     /* --- Back wall (-Z) --- */
+    //setUseTexture(prog, false);
+    //setColor(prog, 0.7f, 0.85f, 1.0f);
     buildModelMatrix(model,
         0.0f, ROOM_H*0.5f, 0.0f,
         0.0f, 0.0f, 0.0f,
